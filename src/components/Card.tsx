@@ -7,7 +7,7 @@ function Card() {
           <h5>Monitors activity to identify project roadblocks</h5>
           <div className="image">
             <img
-              src="/images/icon-supervisor.svg"
+              src="./images/icon-supervisor.svg"
               alt="icon realtive to Supervisoring"
             />
           </div>
@@ -21,7 +21,7 @@ function Card() {
             </h5>
             <div className="image">
               <img
-                src="/images/icon-team-builder.svg"
+                src="./images/icon-team-builder.svg"
                 alt="icon realtive to team-building"
               />
             </div>
@@ -30,7 +30,7 @@ function Card() {
             <h3>Karma</h3>
             <h5>Regularly evaluates our talent to ensure quality</h5>
             <div className="image">
-              <img src="/images/icon-karma.svg" alt="icon realtive to Karma" />
+              <img src="./images/icon-karma.svg" alt="icon realtive to Karma" />
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@ function Card() {
           </h5>
           <div className="image">
             <img
-              src="/images/icon-calculator.svg"
+              src="./images/icon-calculator.svg"
               alt="icon realtive to Calculation"
             />
           </div>
